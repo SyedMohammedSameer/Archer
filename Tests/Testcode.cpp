@@ -417,21 +417,6 @@ void loop() {
 
 
 //The MPU6050 setup code is from the I2Cdev lib under the MIT licence
-//Copyright (c) 2011 Jeff Rowberg
-/*
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of the MPU6050 portion and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-This does not invalidate the header comments regarding the entire program,
-but refers only to the IMU portion of the code.
-*/
 
 void clearprintBuffer()
 {
