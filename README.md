@@ -1,5 +1,6 @@
 # Archer
-The Flight computer for Projecct SPALM
+The Flight computer for Project SPALM 
+https://sites.google.com/view/projectspalm/home
 
 This repository contains the functional and test code for the flight computer of a self-landing model rocket. The flight computer is responsible for controlling the various stages of the rocket's flight, including ignition, thrust control, navigation, and landing.
 
